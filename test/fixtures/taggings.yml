@@ -2,10 +2,8 @@
 
 one:
   tag_id: 
-  article: MyString
-  references: MyString
+  article_id: 
 
 two:
   tag_id: 
-  article: MyString
-  references: MyString
+  article_id: 
